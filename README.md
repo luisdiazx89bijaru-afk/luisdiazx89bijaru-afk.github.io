@@ -1,3 +1,4 @@
+El nexo entre el presente, el pasado y lo increíble.
 [Inicio](./index.md) | [Noticias](./noticias.md) | [Historia](./historia.md) | [Momentos](./momentos.md)
 ---
 Tu refugio digital para perderte entre lo insólito y lo curioso.
