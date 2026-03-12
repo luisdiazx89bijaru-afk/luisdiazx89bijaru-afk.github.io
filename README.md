@@ -1,7 +1,4 @@
-Wprld Nexus: El nexo entre el presente, el pasado y lo increíble.
-
-[Inicio](./index.md) | [Noticias](./noticias.md) | [Historia](./historia.md) | [Momentos](./momentos.md)
----
+World Nexus: El nexo entre el presente, el pasado y lo increíble.
 Tu refugio digital para perderte entre lo insólito y lo curioso.
 Tu refugio digital para perderte entre lo insólito, entender lo que mueve al mundo y asomarte a los secretos del pasado. Aquí cada visita es una pequeña expedición: desde momentos inesperados que arrancan una sonrisa hasta historias que despiertan la curiosidad por lo que somos y de dónde venimos.
 ¿Qué descubrirás aquí?
