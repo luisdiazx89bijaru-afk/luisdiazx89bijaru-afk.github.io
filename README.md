@@ -1,16 +1,20 @@
+**[Inicio](./index.md)** &nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp; **[Noticias](./noticias.md)** &nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp; **[Historia](./historia.md)** &nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp; **[Momentos](./momentos.md)**
+---
 # 🌐 World Nexus: El Compendio Digital
 
-> **Misión:** Explorar los límites de lo conocido, desde las noticias que mueven el presente hasta los ecos que definen el pasado.
+> **Misión:** Tu refugio digital para perderte entre lo insólito, entender lo que mueve al mundo y asomarte a los secretos del pasado.
 
 ---
 
-### 📘 Crónicas Destacadas (Web-Libro)
+### 📘 Secciones del Compendio
 
-| Capítulo | Título | Estado |
+| Sección | Contenido | Acceso |
 | :--- | :--- | :--- |
-| 01 | **[El Amanecer de la IA](./prologo.md)** | ✅ Leído |
-| 02 | **[Misterios de la Web](./capitulo1.md)** | 🔓 Próximamente |
+| 🌍 | **Pulso del Mundo** (Noticias) | [Leer Ahora](./noticias.md) |
+| 🕰️ | **Ecos del Pasado** (Historia) | [Explorar](./historia.md) |
+| ⚡ | **Instantes Salvajes** (Videos) | [Ver Todo](./momentos.md) |
 
 ---
 
-### ⚡ Últimas Actualizaciones
+### ✨ Sobre este Proyecto
+Aquí cada visita es una pequeña expedición. Desde momentos inesperados que arrancan una sonrisa hasta relatos que rara vez aparecen en los libros.
