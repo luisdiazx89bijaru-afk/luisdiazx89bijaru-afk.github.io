@@ -1,4 +1,2 @@
-[Inicio](./index.md) | [Noticias](./noticias.md) | [Historia](./historia.md) | [Momentos](./momentos.md)
+**[Inicio](./index.md)** &nbsp;&nbsp; | &nbsp;&nbsp; **[Noticias](./noticias.md)** &nbsp;&nbsp; | &nbsp;&nbsp; **[Historia](./historia.md)** &nbsp;&nbsp; | &nbsp;&nbsp; **[Momentos](./momentos.md)**
 ---
-# 🌍 Noticias del Mundo
-Aquí irán tus noticias...
