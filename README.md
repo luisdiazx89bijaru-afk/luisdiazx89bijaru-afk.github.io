@@ -617,25 +617,6 @@
       </div>
     </div>
   </section>
-      <!-- Shown automatically by JS whenever the grid has no matching articles -->
-      <div class="empty-state" id="emptyState">
-        <h3>No articles yet</h3>
-        <p>This section is ready for your first story. Paste an article card into the grid to see it appear here.</p>
-      </div>
-
-    </div>
-  </section>
-
-  <!-- ABOUT -->
-  <section class="about" id="about">
-    <div class="wrap about-inner">
-      <h2>About WorldNexus</h2>
-      <div class="about-text">
-        <p>WorldNexus.cc is an independent publication dedicated to three subjects that shape how people understand each other: international news, religion, and culture.</p>
-        <p>We believe good reporting travels well — across borders, faiths, and traditions — and that understanding the world starts with taking it seriously.</p>
-      </div>
-    </div>
-  </section>
 
   <!-- FOOTER -->
   <footer>
