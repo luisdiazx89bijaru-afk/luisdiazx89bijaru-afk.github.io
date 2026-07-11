@@ -572,13 +572,18 @@
   <section class="articles-section">
     <div class="wrap">
 
-      <!-- ============================================================
-           ARTICLE GRID
-           Paste new <article class="article-card"> blocks inside this
-           div (see the commented template above the grid in the CSS,
-           or just copy an existing article card once you've added one).
-           Newest articles should go right after the marker comment.
-      ============================================================ -->
+      <div class="article-card" style="border: 1px solid #e2e8f0; padding: 20px; border-radius: 8px; background: #fff; margin-top: 20px;">
+    <span style="font-size: 0.8rem; color: #cc0000; font-weight: bold; text-transform: uppercase;">Religion / History</span>
+    <h3 style="font-size: 1.5rem; margin: 10px 0; color: #111;">
+        The Inscription That Recorded the Fall of Mithras: Archaeologists Find Jesus' Name at a Roman Mystery Temple
+    </h3>
+    <p style="color: #555; font-size: 0.95rem;">
+        Deep inside an underground Roman sanctuary at Zerzevan Castle, researchers decoded a mysterious inscription mentioning both Mithras and Jesus Christ...
+    </p>
+    <a href="mithras-fall-zerzevan.html" style="color: #0066cc; font-weight: bold; text-decoration: none; display: inline-block; margin-top: 10px;">
+        Read Article →
+    </a>
+</div>
       <div class="article-grid" id="article-grid">
         <!-- ▽▽ PASTE NEW ARTICLE CARDS HERE ▽▽ -->
 
